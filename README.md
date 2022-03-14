@@ -77,13 +77,13 @@
 
 ![This is an image](/pictures/pic-12.png)
 
-![This is an image](/pictures/vk-5.png)
+![This is an image](/pictures/vk5.png)
 
 **4-8) Add conflicts and solve they**
 
-![This is an image](/pictures/vk-6.png)
+![This is an image](/pictures/vk6.png)
 
-![This is an image](/pictures/vk-7.png)
+![This is an image](/pictures/vk7.png)
 
 `git pull origin main`
 
@@ -95,7 +95,7 @@
 
 `git push --force main`
 
-![This is an image](/pictures/vk-8.png)
+![This is an image](/pictures/vk8.png)
 
 **9) Merge last pull-request**
 
